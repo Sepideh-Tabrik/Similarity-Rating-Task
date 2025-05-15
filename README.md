@@ -22,6 +22,9 @@ The study investigates how visual and tactile sensory systems use shared 3D shap
 
 ![mds_correlation_analysis](https://github.com/user-attachments/assets/43c59815-e665-46bc-9b1a-538cd0997b7c)
 
+## Data
+You can get data from here: https://data.mendeley.com/datasets/8k7ys2xw4h/1
+
 ## Citation
 If you use this code, please cite the original study: Tabrik, S., Behroozi, M., Schlaffke, L., Heba, S., Lenz, M., Lissek, S., Güntürkün, O., Dinse, H. R., & Tegenthoff, M. (2021). Visual and tactile sensory systems share common features in object recognition. eNeuro, 8(5). https://doi.org/10.1523/ENEURO.0101-21.2021
 

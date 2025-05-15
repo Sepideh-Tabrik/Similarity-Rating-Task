@@ -27,6 +27,3 @@ You can get data from here: https://data.mendeley.com/datasets/8k7ys2xw4h/1
 
 ## Citation
 If you use this code, please cite the original study: Tabrik, S., Behroozi, M., Schlaffke, L., Heba, S., Lenz, M., Lissek, S., Güntürkün, O., Dinse, H. R., & Tegenthoff, M. (2021). Visual and tactile sensory systems share common features in object recognition. eNeuro, 8(5). https://doi.org/10.1523/ENEURO.0101-21.2021
-
-## License 
-This project is licensed under the MIT License. See the LICENSE file for details.
